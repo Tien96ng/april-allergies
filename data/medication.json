@@ -1,0 +1,30 @@
+{
+    "0": {
+        "time": "8AM",
+        "meds": [
+            ["Mycophenolate", "0.4ml"],
+            ["Zonisamide", "1 capsule"],
+            ["Gabapaentin", "0.5ml"]
+        ]
+    },
+    "1": {
+        "time": "4PM",
+        "meds": [
+            ["Galliprant", "1/2 tablet"],
+            ["Gabapaentin", "0.5ml"]
+        ]
+    },
+    "2": {
+        "time": "8PM",
+        "meds": [
+            ["Mycophenolate", "0.4ml"],
+            ["Zonisamide",  "1 capsule"]
+        ]
+    },
+    "3": {
+        "time": "12AM",
+        "meds": [
+            ["Gabapaentin", "0.5ml"]
+        ]
+    }
+}
