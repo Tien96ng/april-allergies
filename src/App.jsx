@@ -1,15 +1,14 @@
-import Allergies from './components/Allergies';
-import './App.css'
+import Allergies from "./components/Allergies";
+import "./App.css";
 
-import allergies from "../data/april_allergies.json"
+import allergies from "../data/april_allergies.json";
 
 function App() {
-
   return (
     <>
-      <Allergies data={allergies}/>
+      <Allergies data={allergies} />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
